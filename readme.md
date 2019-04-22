@@ -22,3 +22,6 @@
 - [x] Project Milestone 1
 - [x] Project Milestone 2
 - [x] Project Milestone 3
+
+## Screenshot
+![screenshot](screenshot.png)
