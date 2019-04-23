@@ -4,6 +4,7 @@
 **Name**: Yifan Zhang  
 **College**: United College  
 **Major**: Computer Science  
+**GitHub Experience**: A little  
 
 | Key               | Value  |
 |-------------------|--------|
